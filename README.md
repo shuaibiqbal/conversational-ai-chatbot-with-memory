@@ -45,6 +45,8 @@ User Message → Memory Buffer → ConversationChain → ChatOpenAI → Response
 6. **Persist** — Streamlit `session_state` keeps memory alive across UI reruns
 
 ---
+![conversational-ai-chatbot](screenshot/conversational-ai-chatbot-with-memory.png)
+---
 
 ## 🛠️ Tech Stack
 
@@ -75,8 +77,6 @@ conversational-ai-chatbot-with-memory/
     └── ui_components.py      # Streamlit chat bubble styling
 ```
 
-![conversational-ai-chatbot](screenshot/conversational-ai-chatbot-with-memory.png)
----
 
 ## 📦 Requirements
 
