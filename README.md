@@ -75,6 +75,7 @@ conversational-ai-chatbot-with-memory/
     └── ui_components.py      # Streamlit chat bubble styling
 ```
 
+![conversational-ai-chatbot](screenshot/conversational-ai-chatbot-with-memory.png)
 ---
 
 ## 📦 Requirements
